@@ -1,0 +1,103 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+input {
+    background: grey;
+}
+
+.mid-container {
+    padding: 1%;
+    width: 50%;
+    align-self: space-between;
+    display: inline-table;
+    background: repeating-linear-gradient(315deg, #00c94a, #00c94a 10px, #109f44 10px, #109f44 20px);
+    position: inherit;
+    object-position: center;
+
+
+}
+
+.text {
+    padding: 2%;
+    ;
+    background-color: aliceblue;
+    margin: 2%;
+    vertical-align: sub;
+    display: inline-table;
+}
+
+.abtme-text {
+    width: 75%;
+    position: relative;
+    padding-top: 20px;
+    align-content: center;
+    object-position: center;
+
+}
+
+.outer-container {
+
+    width: 100%;
+    margin: ;
+    background: repeating-linear-gradient(90deg, blue, blue 20px, darkblue 20px, darkblue 40px);
+    background-size: 100% 88px;
+    background-position: 0% 0%;
+    align-self: center;
+    margin-bottom: 30px;
+}
+
+#work-hight {
+    height: 100px;
+
+}
+.sectioner
+{
+    width: auto;
+}
+.title{
+    background-color: cornflowerblue;
+    width:10%;
+}
+
+.title-text
+{
+    color: darkslategrey;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+
+    
+}
